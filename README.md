@@ -35,15 +35,13 @@ The latest scan recorded **four responding hosts**.
 
 ## Network Topology
 
-The image below is a privacy-protected representation of the topology view. It keeps the four-host layout visible while withholding local device names, IP addresses and MAC addresses.
+The image on the added files is a privacy-protected representation of the topology view. It keeps the four-host layout visible while withholding local device names, IP addresses and MAC addresses.
 
-![Privacy-protected Zenmap network topology](Zenmap_Topology_Privacy_Protected.png)
+
 
 ## Project Report
 
-Read the complete written practical report below:
-
-[**View Week 2 Practical Report (PDF)**](Week_2_Practical_Report_Public_Copy.pdf)
+Read the complete written practical report on the added files
 
 ## Scope and Responsible Use
 
